@@ -12,13 +12,13 @@
 - Advanced software architecture and backend integration
 
 ## 💼 Featured Projects:
-### 🌍 [Planet Reviews](https://github.com/MatanReuvenTal/Planet-Reviews)
+### 🌍 [Planet Reviews](https://github.com/Omer-Matan-Projects/Planet-Reviews)
 An interactive movie review web page where users can rate, review, and explore movies with IMDb integration. Features multilingual support via Google Translate API and dynamic data management using JSON.
 
-### 🐚 [CustomLinuxShell](https://github.com/MatanReuvenTal/CustomLinuxShell)
+### 🐚 [CustomLinuxShell](https://github.com/Omer-Matan-Projects/CustomLinuxShell)
 A custom-built Linux shell written in C, supporting direct system calls (`open`, `read`, `write`), logical and mathematical sub-shells, command history, and robust error handling. Designed for UNIX-based systems.
 
-### 📚 [Blib4 - Library Management System](https://github.com/MatanReuvenTal/Blib4)
+### 📚 [Blib4 - Library Management System](https://github.com/Method-for-Software-System-Development/BLib4)
 An educational full-stack system developed in Java using JavaFX for GUI, JDBC for DB connection, and OCSF for client-server communication. Developed as part of a semester-long Agile Scrum project.
 
 ### 🚧 Upcoming: **PetClinic Web Application**
